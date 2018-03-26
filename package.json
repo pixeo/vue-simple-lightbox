@@ -2,7 +2,7 @@
   "name": "vue-simple-lightbox",
   "version": "0.0.5",
   "description": "A Vue.js component for touch-friendly image lightbox",
-  "main": "./dist/vue-simple-lightbox.js",
+  "main": "dist/vue-simple-lightbox.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --config ./build/dev.js --port 8080",
     "prepublish": "npm run build",
